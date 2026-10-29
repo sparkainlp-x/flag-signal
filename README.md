@@ -19,3 +19,7 @@ Each run has 10 flags chosen from a pool of 30 countries. Pick with a click/tap 
 - `index.html` — the complete game, including styles and game logic.
 
 The flag symbols use the browser/device emoji font. GitHub Pages can serve this static page if you choose to enable Pages for the repository.
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 only (AGPL-3.0-only). See [LICENSE](LICENSE) for the full text.
